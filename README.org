@@ -1,0 +1,10 @@
+* trivial-irc
+
+Trivial IRC client library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/karvus/trivial-irc.git   |
+| commit  | 7cb6e99  |
+| systems | trivial-irc |
+|---------+-------------------------------------------|
+
